@@ -1,2 +1,2 @@
 # TransCycleGAN
- UnpaireImage-to-Image Translation using Transformer-based CycleGAN
+ Unpaired Image-to-Image Translation using Transformer-based CycleGAN
